@@ -3,7 +3,9 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+x = 600/(37.5/100);
+
+print("A distancia x é igual a", x);
 ```
 
 # Advanced usage
